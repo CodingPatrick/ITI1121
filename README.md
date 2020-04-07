@@ -1,2 +1,2 @@
 # ITI1121
-ITI 1121 labs
+ITI 1121 Labs & Assignments
