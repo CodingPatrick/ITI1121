@@ -1,2 +1,2 @@
-# ITI1121
-ITI 1121 Labs & Assignments
+# ITI1121 - Introduction to Computing II
+Labs & Assignments
